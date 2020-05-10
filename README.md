@@ -1,24 +1,13 @@
-# README
+# a small project to create schedulers
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+you need config your database credentials
 
-Things you may want to cover:
+```
+  bundle install
+  rails s
+```
 
-* Ruby version
+## Services
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Create Scheduler
+Get Schedulers
